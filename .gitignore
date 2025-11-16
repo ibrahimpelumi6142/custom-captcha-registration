@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+wp-config.php
+wp-content/uploads/
+wp-content/advanced-cache.php
