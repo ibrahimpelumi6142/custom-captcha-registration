@@ -1,6 +1,6 @@
-# Custom CAPTCHA Registration
+# Custom CAPTCHA For Wordpress Custom Login & Registration Page
 
-This WordPress plugin customizes Wordfence CAPTCHA validation for the registration page to reduce spam registrations.  
+This WordPress plugin customizes Wordfence CAPTCHA validation for the custon login & registration page to reduce spam registrations.  
 
 ## Features
 - Adjusts CAPTCHA display on registration page.
@@ -10,7 +10,7 @@ This WordPress plugin customizes Wordfence CAPTCHA validation for the registrati
 ## Installation
 1. Upload the `custom-captcha-registration` folder to your `/wp-content/plugins/` directory.
 2. Activate the plugin through the WordPress admin panel.
-3. The plugin will automatically adjust CAPTCHA on the registration page.
+3. The plugin will automatically adjust CAPTCHA on the login & registration page.
 
 ## Author
 [Ibrahim Pelumi](https://bestspotsolution.com)
