@@ -19,6 +19,8 @@ This WordPress plugin customizes Wordfence CAPTCHA validation for custom login &
 ## Screenshot
 ![Plugin Screenshot](https://www.bestspotsolution.com/wp-content/uploads/2025/03/custom-login-reg-captcha-registration-plugin.png)
 
+![Error Screenshot](https://www.bestspotsolution.com/wp-content/uploads/2025/03/REGISTRATION-ATTEMPT-BLOCKED-300x163.png)
+
 ## License
 This project is licensed under the MIT License.
 
